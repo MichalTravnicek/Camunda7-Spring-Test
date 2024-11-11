@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example.workflow</groupId>
-  <artifactId>Lafayette</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <artifactId>CamundaSpringTest</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
 
   <dependencyManagement>
     <dependencies>
@@ -59,6 +59,11 @@
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-jdbc</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-test</artifactId>
     </dependency>
 
   </dependencies>
