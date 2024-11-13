@@ -17,4 +17,9 @@ jwt.secret: 2dae84f846e4f4b158a8d26681707f4338495bc7ab68151d7f7679cc5e56202dd3da
 jwt.get.token.uri: /authenticate
 jwt.token.validity: 300
 
+api:
+  ip:
+    url: https://api.ipstack.com
+    key: 58bdfb9327220272a656d2ffb7ae06f8
+
 logging.level.com.example.workflow: DEBUG
