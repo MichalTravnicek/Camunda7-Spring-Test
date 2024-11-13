@@ -19,7 +19,8 @@ Test basic functionality using Camunda REST endpoint engine-rest
 Based on https://www.javainuse.com/spring/boot-jwt
 Service now requires authentication on /engine-rest endpoint
 
-### Add the ipstack API to flow - TODO
+### Add the ipstack API to flow - COMPLETED
+Getting "city" from IP address resolving API and inserting to flow as variable
 
 ### Add the weatherstack API to flow - TODO
 
